@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\.Net\\.Net-Programs\\Lab-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|d:\\.net\\.net-programs\\lab-2\\lab-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|d:\\.net\\.net-programs\\lab-2\\lab-2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|d:\\.net\\.net-programs\\lab-2\\lab-2\\program10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\program10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\account_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\account_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\areaofrectangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\areaofrectangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|D:\\.Net\\.Net-Programs\\Lab-2\\lab-2\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DEDF029-B087-4E2F-8485-874E22D526F5}|Lab-2\\Lab-2.csproj|solutionrelative:lab-2\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +50,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "program10.cs",
+              "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\program10.cs",
+              "RelativeDocumentMoniker": "Lab-2\\program10.cs",
+              "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\program10.cs",
+              "RelativeToolTip": "Lab-2\\program10.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:21:33.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Furniture.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Furniture.cs",
+              "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Furniture.cs",
+              "RelativeToolTip": "Lab-2\\Furniture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:49:22.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account_Details.cs",
+              "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Account_Details.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Account_Details.cs",
+              "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Account_Details.cs",
+              "RelativeToolTip": "Lab-2\\Account_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:37:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Distance.cs",
               "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Distance.cs",
               "RelativeDocumentMoniker": "Lab-2\\Distance.cs",
@@ -50,25 +99,23 @@
               "RelativeToolTip": "Lab-2\\Distance.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:47:29.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T13:47:29.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Salary.cs",
               "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Salary.cs",
               "RelativeDocumentMoniker": "Lab-2\\Salary.cs",
               "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Salary.cs",
               "RelativeToolTip": "Lab-2\\Salary.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:57:55.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T03:57:55.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "AreaOfRectangel.cs",
               "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\AreaOfRectangel.cs",
               "RelativeDocumentMoniker": "Lab-2\\AreaOfRectangel.cs",
@@ -76,12 +123,11 @@
               "RelativeToolTip": "Lab-2\\AreaOfRectangel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:34:32.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T03:34:32.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "staff.cs",
               "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\staff.cs",
               "RelativeDocumentMoniker": "Lab-2\\staff.cs",
@@ -89,21 +135,19 @@
               "RelativeToolTip": "Lab-2\\staff.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:17:16.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T03:17:16.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Student.cs",
               "RelativeDocumentMoniker": "Lab-2\\Student.cs",
               "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Student.cs",
               "RelativeToolTip": "Lab-2\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:12:24.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T03:12:24.599Z"
             },
             {
               "$type": "Document",
@@ -113,7 +157,7 @@
               "RelativeDocumentMoniker": "Lab-2\\Program.cs",
               "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Program.cs",
               "RelativeToolTip": "Lab-2\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T03:09:27.861Z",
               "EditorCaption": ""
@@ -126,10 +170,9 @@
               "RelativeDocumentMoniker": "Lab-2\\Bank_Account.cs",
               "ToolTip": "D:\\.Net\\.Net-Programs\\Lab-2\\Lab-2\\Bank_Account.cs",
               "RelativeToolTip": "Lab-2\\Bank_Account.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:00:29.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T03:00:29.948Z"
             }
           ]
         }

@@ -9,7 +9,7 @@ namespace Lab_2
     internal class Student
     {
         int Enrollment_No, Semester, CPI, SPI;
-        String Student_Name;
+        string Student_Name;
 
         public Student(int en,int sem,int cpi,int spi,String sdname) {
             Enrollment_No = en;

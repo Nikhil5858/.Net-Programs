@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0DEDF029-B087-4E2F-8485-874E22D526F5}</ProjectGuid>
+    <ProjectGuid>{E769A571-AD61-436A-8218-5B7AE1306810}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lab_2</RootNamespace>
-    <AssemblyName>Lab-2</AssemblyName>
+    <RootNamespace>Lab_3</RootNamespace>
+    <AssemblyName>Lab-3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,18 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account_Details.cs" />
-    <Compile Include="AreaOfRectangel.cs" />
-    <Compile Include="Bank_Account.cs" />
-    <Compile Include="Candidate.cs" />
-    <Compile Include="Distance.cs" />
-    <Compile Include="Furniture.cs" />
+    <Compile Include="Area.cs" />
+    <Compile Include="Bank.cs" />
+    <Compile Include="BankAccount.cs" />
+    <Compile Include="Calculator.cs" />
+    <Compile Include="Hospital.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="program10.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Salary.cs" />
-    <Compile Include="staff.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="sqrec.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

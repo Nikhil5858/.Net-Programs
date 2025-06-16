@@ -77,6 +77,12 @@ namespace Lab_2
             //a.CalculateArea();
             //Console.ReadKey();
 
+            // Program = 6
+
+            //Interest i = new Interest();
+            //i.GetDetails();
+            //i.CalculateInterest();
+            //Console.ReadKey();
 
             // Program = 7
 
@@ -91,6 +97,7 @@ namespace Lab_2
 
 
             //Program = 8
+
             //double di1, di2;
             //Console.Write("Enter Distance 1 : ");
             //di1 = Convert.ToDouble(Console.ReadLine());
@@ -99,6 +106,22 @@ namespace Lab_2
             //Distance d = new Distance(di1,di2);
             //d.calculateDistance();
 
+            //Console.ReadKey();
+
+            //Program = 9
+
+           //Table t = new Table();
+           // t.getDetails();
+           // t.getTabelDetails();
+           // t.displayTabel();
+           // Console.ReadKey();
+
+            //Program = 10
+
+            //Employee e = new Employee();
+            //e.getEmployees();
+            //e.Disp_sal();
+            //e.Gross_sal();
             //Console.ReadKey();
         }
     }
